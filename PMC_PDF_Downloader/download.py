@@ -27,7 +27,7 @@ def search_articles_by_author(author_name):
     pmc_ids = [record.attrib['id'] for record in root.findall('.//record')]
 
     return pmc_ids
-def download_pmc_article(pmc_id, directory='downloaded_articles'):
+def download_pmc_article(pmc_id, directory): # directory = 'downloaded_articles'
     global cnt
     download_url = f'https://www.ncbi.nlm.nih.gov/pmc/articles/{pmc_id}/pdf/'
 
