@@ -21,4 +21,4 @@ All you need is to enter the name of the author, and wait for the downloaded art
 
 ## Contact
 If you have any questions or issues, please submit them through issues.
-Or contact with me by [email](121090517@link.cuhk.edu.cn).
+Or contact with me by <a href="mailto:121090517@link.cuhk.edu.cn">yifu@link.cuhk.edu.cn</a>
